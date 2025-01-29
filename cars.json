@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Camry 2023",
+      "fuelCapacity": 60,
+      "fuelType": "95"
+    },
+    {
+      "id": 2,
+      "make": "Nissan",
+      "model": "Patrol 2022",
+      "fuelCapacity": 140,
+      "fuelType": "91"
+    },
+    {
+      "id": 3,
+      "make": "Hyundai",
+      "model": "Elantra 2021",
+      "fuelCapacity": 50,
+      "fuelType": "91"
+    }
+  ]
+}
